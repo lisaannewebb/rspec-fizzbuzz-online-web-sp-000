@@ -6,7 +6,7 @@ if int % 3 == 0
   eslif int % 3 == 0 && int % 5 == 0
    "FizzBuzz"
 else
-  "nil"
+  nil
 end
 
 
