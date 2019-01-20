@@ -1,5 +1,6 @@
 def fizzbuzz(int)
-n % 3 == 0
-puts "Fizz"
+if int % 3 == 0
+  "Fizz"
+  elsif int % 5 == 0
 end
 
